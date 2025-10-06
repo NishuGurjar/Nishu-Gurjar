@@ -1,2 +1,3 @@
 # Nishu-Gurjar
-Author- Nishu 
+Author- Nishu (gurjar)
+
